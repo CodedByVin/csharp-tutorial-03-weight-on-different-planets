@@ -1,6 +1,6 @@
 # C# Windows Forms: Weight on Different Planets
 
-This repository contains the completed source code for Tutorial #4 on my YouTube channel. It demonstrates how to build a basic graphical user interface and apply Object-Oriented Programming (OOP) concepts in C#.
+This repository contains the completed source code for Tutorial #3 on my YouTube channel. It demonstrates how to process numeric user input, apply planetary weight calculations, and display results via dialog boxes using C# and Windows Forms.
 
 **📺 Watch the full tutorial here:** (https://www.youtube.com/@CodedByVin).
 
